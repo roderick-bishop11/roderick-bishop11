@@ -6,6 +6,7 @@
 </div>
 
 <div id="badges" align="center" border="5px">
+  <a href="https://www.linkedin.com/in/roderickebishop/" target="_">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
 

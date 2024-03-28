@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHVqYW00ZGd5OWhja292ZGx5c2VpaDY2MXFsenBvY2lqdXk3MW0xcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vqxviVfqGAa14SgeiC/giphy.gif" width="100"/>
   <h2> Roderick Bishop </h2>

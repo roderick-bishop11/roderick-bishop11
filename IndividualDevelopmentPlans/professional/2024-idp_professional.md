@@ -27,8 +27,6 @@ Of those goals, I've completed work in the following areas, represented as compl
   - Deployment
   - Using CLI's & other tools
 
-While my learning in this area was substantial, my delivery was not. Mid-year project deprecation was a team choice and my second application not being delivered by Q4 is not necessarily a negative but should not be counted as a positive agains this goal.
-
 - **Security:**  ![security_progress](https://geps.dev/progress/15)
   - Completed work relating to request authentication; tokens, goProxy, enterprise secret practices etc.
   - Completed some work around remediating security vulnerabilites and the tooling to help with that.
@@ -65,24 +63,28 @@ This year, I'd like to carry over my learning intent in security, backend progra
 As an individual contributor, I'd like to simply write as much code as possible. Last year was integral to developing the capacity & capability necessary to deliver more for the team. I plan to continue to scale over last year's deliverabiles, kicking off the year with the implementation of Lockjaw which was started last year. With the recent work on realigning our team to OKR's as well, it's easier for me to see where I can help the team after this initial accomplishment. I have observed substantial changes in speed & correctness of code delivery from my end especially with respect to testing, a refinement of approach and process with new applications, and greater knowledge of or influence over RFID applications as the year progressed.
 
 
-## Evaluation against 2024's goals as of 3/28/24, expressed as percentile of personal/team satisfaction with coverage of content
+## Evaluation against 2024's goals as of 11/29/24, expressed as percentile of personal/team satisfaction with coverage of content
 
 | Goal | Percent | Notes |
 | ---- | :------: |  ---- |
-|Project Delivery | ![app_progress](https://geps.dev/progress/20) | Lockjaw Delivery is in progress. I've also had the opportunity to build & deliver a tool; the config-scraper for other engineers to use.|
-| Application Security| ![app_progress](https://geps.dev/progress/20) |I have accepted the security role on my team at work. As a Security Ninja I'll have insight into app security, gain experience remediating SCA Vulnerabilities, learn to model threats, get some hands-on experience hacking and gain experience with devOps relating to the remediation of issues. |
-| Deployment & DevOps | ![app_progress](https://geps.dev/progress/15) | Some elements of Deployment & DevOps has been incorprated in sprint work such as database OS upgrades, app security vulnerability updates, and deployment of artifacts and apps to various environments. Being a security Ninja on my team will help me gain more experience in this area. |
-| Horizontal Scaling of systems and apps | ![app_progress](https://geps.dev/progress/0)|Some learning around system design/architecture where scale is built in, operational readiness, prep for scale, & load testing applications to measure throughput and inefficiencies |
-| App Integration & Testing | ![app_progress](https://geps.dev/progress/25)| Lots of opportunities for this area. Between current work and the backlog, there's integration between applications (RFID Pipeline using Lockjaw Proxy) and the tests that will need to be written as part of development. Unit tests, integration tests, stress tests, load tests, etc.|
-| Databases & Data Access | ![app_progress](https://geps.dev/progress/5)| Beginning with the experience of migrating DBs, I've had the opportunity to learn so much more about db management, and access. I had an on-call rotation that required manual remediation of some applications that involved using postgres DML This work spurred learnings around postgres transactions, locks, roles & permissions, more work on queries, etc|
-| *Networks - learning Topic* |![app_progress](https://geps.dev/progress/0) | |
-| *App Compile & Runtime - learning topic* |![app_progress](https://geps.dev/progress/30) | Learned a LOT about JVM runtime & gradle as a build tool during operational readiness review for Lockjaw; garbage collecting, JVM heap management, and gained experience using utilities & tools like `jmap` & Eclipse's Memory Analyzer to triage memory issues. |
+|Project Delivery | ![app_progress](https://geps.dev/progress/60) | Lockjaw Delivery is no longer an objective- learning that sometimes projects don't deliver the value that's intended or cost more than the value they bring. Pivoted to smaller projects & freature work for existing or newer components. I've also had the opportunity to build & deliver a tool; the config-scraper for other engineers to use. Learnings around code reviews, personal project delivery workflows, collaborating w/other developers to develop via roadmap, prototyping & solution analysis were all done experientially. To date, I've delivered more code with smoother review processes this year than last; even while missing a month due to FMLA. |
+| Application Security| ![app_progress](https://geps.dev/progress/45) | Per the Dunning-Kruger effect, my first foray into app security is revealing how much more there is to learn. This year involved hands on hacking using [OWASPs Juice Shop](https://owasp.org/www-project-juice-shop/) as well as threat modeling for my team. Also, operational readiness reviews were conducted w/Lockjaw as well as other production components. Lots left to learn as far as general knowledge, but learning App Security w/ Target as a teach org was the prime directive. There might be more this year. |
+| Deployment & DevOps | ![app_progress](https://geps.dev/progress/55) | Some elements of Deployment & DevOps has been incorprated in sprint work such as database OS upgrades, app security vulnerability updates, and deployment of artifacts and apps to various environments. New role as Security Ninja aids in gaining more experience in this realm. |
+| Horizontal Scaling of systems and apps | ![app_progress](https://geps.dev/progress/25)| Some learning around system design/architecture where scale is built in, operational readiness, prep for scale, & load testing applications to measure throughput and inefficiencies. All of these subjects were covered this year. Load testing with gatling using Scala, op readiness for Lockjaw, scaling of Drax near end of the year, also profiling JVM apps & heap analysis to troubleshoot Yondu(camunda engine). |
+| App Integration & Testing | ![app_progress](https://geps.dev/progress/40)| Lots of opportunities for this area, but also lots of work. I've learned so much and completed more unit tests, integration tests, stress tests, load tests, etc. this year than ever before.|
+| Databases & Data Access | ![app_progress](https://geps.dev/progress/20)| Completed work relating to migrating DBs, along with on-call rotations requiring real-world use of postgres DML. Took time to learn about transactions, locks, metrics & telemetry, internet connections, meterialized views, top-N-analysis, roles, data rollups, and permissions in postgres this year. This builds upon my knowledge of DDL/DML from college while also adding some DBA skills as well. Lots more to learn around queries, aggregation, db management, and performance. |
+| *Networks - learning Topic* |![app_progress](https://geps.dev/progress/10) | Gave Networking 101 presentation to EEPs this winter. Delving deeper into the subject by administering a homelab! |
+| *App Compile & Runtime - learning topic* |![app_progress](https://geps.dev/progress/35) | Valuable spike time was spent learning more about JVM Heaps & heap analysis using `jmap`, G1GC, memory allocation optimization & analysis. Also spent learning time on topics like Gradle, Java's JIT compiler, the JVM itself, differences between JVM successors like Kotlin & Scala. Also took time to learn about the GCC compiler, compile implementations in RUST also. |
 
-## Notable non-engineering Work this calendar year
+## Notes on delivery & professional aspirations
 
+## Notable non-engineering Work/opportunities this calendar year
+
+- Genesys Works mentor- (Winter 2024)
+- Attended Afrotech 2024: participating in volunteer work, Joyhacks event with Target & Shipt as well as networking & the conference. (November 2024)
 - Showed dedication to Target’s core values by volunteering at various Target Events
   - Morehouse College Target Tech Day & Hackathon (March 2024)
 - TLP Peer Mentor program (summer 2024)
   - Carrying over mentorship of one mentee from the 2023 peer mentor program.(Intern is returning)
-  - Took on 2 new interns this year. They did so well!
-
+  - Took on 2 new interns this year, with one returning. All 3 received full-time offers.
+- Presented Networking 101 presentation to EEPs (January, 2024)

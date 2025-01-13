@@ -12,8 +12,6 @@ In the context of my entire career, I seek to become an interdisciplinary engine
 
 A quick word - 
 
-
-
 New learning & capability areas
 
 ## Looking Back to 2023
@@ -101,8 +99,6 @@ As an individual contributor, I'd like to simply write as much code as possible.
 - Showed dedication to Target’s core values by volunteering at various Target Events
   - Morehouse College Target Tech Day & Hackathon (March 2024)
 - Presented Networking 101 presentation to EEPs (January, 2024)
-
-
 
 ## Final word
 

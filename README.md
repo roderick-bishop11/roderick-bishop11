@@ -17,7 +17,6 @@ Hi I'm Roderick. A SWE currently working on IoT applications at Target. I find j
 - Python & using it to build apps that use LLMs
 - Mechatronics & embedded applications
 - Biological topics -> the human microbiome, CNS, Neurology, etc
-- Bioinformatics
 
 ## A few things I've read recently that I want to share
 

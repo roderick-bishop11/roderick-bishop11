@@ -24,3 +24,7 @@ Hi I'm Roderick. A SWE currently working on IoT applications at Target. I find j
   - [research paper](https://arxiv.org/pdf/2310.08560.pdf)
   - [github](https://github.com/cpacker/MemGPT/tree/main)
   - doing a book club around this!
+ 
+- [MemPalace]
+  - website: https://www.mempalace.tech/
+  - ^^encoding and not using a tokenizer for long-term memory!!!?!?!?! 

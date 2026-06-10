@@ -20,6 +20,10 @@ Hi I'm Roderick. A SWE currently working on IoT applications at Target. I find j
 
 ## A few things I've read recently that I want to share
 
+- [BigTable - Distributed Storage System by Google]
+  - paper: https://research.google.com/archive/bigtable.html
+ 
+
 - [Letta Ai (MemGPT)]: A Step Towards LLMs as Operating Systems
   - [research paper](https://arxiv.org/pdf/2310.08560.pdf)
   - [github](https://github.com/cpacker/MemGPT/tree/main)
